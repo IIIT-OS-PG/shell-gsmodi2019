@@ -1,0 +1,4 @@
+-rw-r--r-- 1 gsmodi gsmodi     0 Sep  4 21:37 rc.txt
+-rw-rw-r-- 1 gsmodi gsmodi  4733 Sep  7 01:06 eec.cpp
+-rwxr-xr-x 1 gsmodi gsmodi 19976 Sep  8 17:13 a.out
+total 28
